@@ -5,4 +5,6 @@
 * [学习](python/index.md)
 * [python](python.md)
 * [匿名邮箱](找.md)
+* [random](random.md)
+* [txttolist](txttolist.md)
 
