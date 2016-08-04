@@ -6,5 +6,5 @@
 * [python](python.md)
 * [匿名邮箱](找.md)
 * [random](random.md)
-* [txttolist](txttolist.md)
+* [A&Q](txttolist.md)
 
